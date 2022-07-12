@@ -27,5 +27,5 @@ def morse_code(phrase, pin):
     return True
 
 sleep(1)
-morse_code('I love you, Meg!', morse_pin)
+morse_code('Hello World', morse_pin)
 
